@@ -1,0 +1,5 @@
+This is the first sentence.
+Here is another sentence.
+SentencePiece is a useful tool for tokenization.
+Let's add a few more sentences for good measure.
+This is the last sentence in the text corpus.
